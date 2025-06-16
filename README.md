@@ -18,11 +18,11 @@ A machine learning application that predicts stock price trends using LSTM (Long
 *Main dashboard showing stock analysis and predictions*
 
 ### Moving Averages
-![Moving Averages](screenshots/moving average.png)
+![Moving Averages](screenshots/moving-average.png)
 *Price chart with moving averages*
 
 ### Technical Analysis
-![Technical Indicators](screenshots/technical indicators.png)
+![Technical Indicators](screenshots/technical-indicators.png)
 *RSI and MACD technical indicators*
 
 ### Prediction Summary
