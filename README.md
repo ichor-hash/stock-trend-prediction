@@ -25,6 +25,10 @@ A machine learning application that predicts stock price trends using LSTM (Long
 ![Technical Indicators](screenshots/technical-indicators.png)
 *RSI and MACD technical indicators*
 
+### Price Predictions
+![Predictions](screenshots/predictions.png)
+*LSTM model predictions vs actual prices*
+
 ### Prediction Summary
 ![Summary](screenshots/summary.png)
 *Price predictions and trading signals summary*
