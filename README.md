@@ -11,6 +11,24 @@ A machine learning application that predicts stock price trends using LSTM (Long
 - Interactive visualizations
 - Risk assessment metrics
 
+## Screenshots
+
+### Main Interface
+![Main Interface](screenshots/main_interface.png)
+*The main interface showing stock analysis and predictions*
+
+### Technical Indicators
+![Technical Indicators](screenshots/technical_indicators.png)
+*RSI and MACD technical indicators*
+
+### Price Predictions
+![Price Predictions](screenshots/predictions.png)
+*Price predictions and trading signals*
+
+### Risk Assessment
+![Risk Assessment](screenshots/risk_assessment.png)
+*Risk assessment metrics and analysis*
+
 ## Setup
 
 1. Clone the repository:
@@ -51,6 +69,8 @@ The prediction model uses a deep LSTM architecture with:
 - 100-day sequence input
 - Mean Squared Error loss function
 - Adam optimizer
+
+> **Note:** Currently, the model only analyzes closing price trends. Future enhancements may include additional features such as opening prices, high/low values, and trading volume to improve prediction accuracy.
 
 ## Dependencies
 
