@@ -29,6 +29,10 @@ A machine learning application that predicts stock price trends using LSTM (Long
 ![Predictions](screenshots/predictions.png)
 *LSTM model predictions vs actual prices*
 
+### Data Statistics
+![Statistics](screenshots/stats.png)
+*Statistical analysis of stock data*
+
 ### Prediction Summary
 ![Summary](screenshots/summary.png)
 *Price predictions and trading signals summary*
