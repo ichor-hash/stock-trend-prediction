@@ -13,21 +13,21 @@ A machine learning application that predicts stock price trends using LSTM (Long
 
 ## Screenshots
 
-### Main Interface
-![Main Interface](screenshots/main_interface.png)
-*The main interface showing stock analysis and predictions*
+### Dashboard Overview
+![Dashboard](screenshots/dashboard.png)
+*Main dashboard showing stock analysis and predictions*
 
-### Technical Indicators
-![Technical Indicators](screenshots/technical_indicators.png)
+### Moving Averages
+![Moving Averages](screenshots/moving average.png)
+*Price chart with moving averages*
+
+### Technical Analysis
+![Technical Indicators](screenshots/technical indicators.png)
 *RSI and MACD technical indicators*
 
-### Price Predictions
-![Price Predictions](screenshots/predictions.png)
-*Price predictions and trading signals*
-
-### Risk Assessment
-![Risk Assessment](screenshots/risk_assessment.png)
-*Risk assessment metrics and analysis*
+### Prediction Summary
+![Summary](screenshots/summary.png)
+*Price predictions and trading signals summary*
 
 ## Setup
 
@@ -89,4 +89,4 @@ MIT License
 
 ## Disclaimer
 
-This application is for educational purposes only. The predictions and trading signals should not be used as financial advice. Always do your own research before making investment decisions. 
+This application is for educational purposes only. The predictions and trading signals should not be used as financial advice. Always do your own research before making investment decisions.
